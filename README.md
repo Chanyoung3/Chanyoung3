@@ -29,9 +29,9 @@
   <br><br>
 
   <a href="https://github.com/Chanyoung3/SalesScoreAi" target="_blank">
-    <img src="https://img.shields.io/badge/MEMBER-SalesScoreAi-2563EB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LEADER-SalesScoreAi-2563EB?style=for-the-badge" />
   </a> <br>
-  <sub>팀원 - AI 기반 영업 상담 평가</sub>
+  <sub>팀장 - AI 기반 영업 상담 평가</sub>
   <br><br>
 
   <a href="https://github.com/Chanyoung3/DATAUP" target="_blank">
