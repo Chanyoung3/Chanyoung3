@@ -47,9 +47,9 @@
   <br><br>
 
   <a href="https://github.com/Chanyoung3/MYSNS" target="_blank">
-    <img src="https://img.shields.io/badge/MEMBER-MYSNS-FF4023?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SOLO-MYSNS-FF4023?style=for-the-badge" />
   </a> <br>
-  <sub>팀원 - 간단한 소셜 네트워크 서비스</sub>
+  <sub>개인 - 간단한 소셜 네트워크 서비스</sub>
   <br><br>
 
   <a href="https://github.com/Chanyoung3/FESTIVALAPP" target="_blank">
