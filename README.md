@@ -63,6 +63,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"> 
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
       </td>
       <td align="center" valign="middle">2025.05 ~ 2025.06</td>
